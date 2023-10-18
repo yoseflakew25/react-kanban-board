@@ -1,4 +1,4 @@
-# Build a drag and drop Kanban Board
+# A drag-and-drop Kanban Board
 
 A kanban board that lets you organize your tasks and projects in a visual way! using React, TypeScript, TailwindCSS and dnd-kit.
 
